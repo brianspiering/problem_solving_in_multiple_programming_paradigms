@@ -1,7 +1,5 @@
-Tutorial Title
-------
-
 More than one obvious way to do it: Solving the same problem in multiple programming paradigms.
+-------
 
 Abstract
 -----
@@ -18,7 +16,7 @@ Prerequisites
 
 A laptop. No software dependencies are required. 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/brianspiering/roblem_solving_in_mulitple_paradigms.ipynb/]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/brianspiering/roblem_solving_in_mulitple_paradigms.ipynb)
 
 [![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/brianspiering/problem_solving_in_multiple_programming_paradigms/master)
 
